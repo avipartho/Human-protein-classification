@@ -1,8 +1,8 @@
 # kaggle_human_protein_atlas_image_classification
 
-Links:
 - [My GitHub](https://github.com/avipartho)
 - [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)
+- [Inspired from spytensor](https://github.com/spytensor/kaggle_human_protein_baseline)
 
 Public Score: `0.50487` 
 Private Score: `0.47002`
