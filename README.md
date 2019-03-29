@@ -15,11 +15,13 @@ Private Score: `0.47002`
 
 `step1: change config.py for different directories and parameters`
 
-`step2: run main.py`
+`step2: to train, validate and save models for a single fold, run main.py`
+
+`step3: to ensemble and prepare submission files, run ensemble.py`
 
 # 3. Saving models
 
-Three models were saved from training process: best-loss, best-f1 & final-epoch
+Three models were saved from the training process: best-loss, best-f1 & final-epoch
 
 # 4. Results
 
